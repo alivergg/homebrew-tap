@@ -1,8 +1,8 @@
 cask "squadair" do
   arch arm: "arm64"
 
-  version "1.6"
-  sha256 "bec79ffbd33ff07cab6af8101a4738772189888ff4d5179313ea76974b0e889a"
+  version "1.7"
+  sha256 "d67c92e390b9ad4d9aed3227e7e45fdac72b707165ca54d1314f3815ebabb055"
 
   url "https://github.com/alivergg/squad-air/releases/download/v#{version}/SquadAir-Installer-macos-arm64.pkg",
       verified: "github.com/alivergg/squad-air/"
